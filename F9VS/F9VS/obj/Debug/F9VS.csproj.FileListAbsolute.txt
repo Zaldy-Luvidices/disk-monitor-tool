@@ -1,0 +1,22 @@
+C:\Users\PB5N0137.DTCT01\Documents\Visual Studio 2013\Projects\F9VS\F9VS\bin\Debug\F9VS.exe.config
+C:\Users\PB5N0137.DTCT01\Documents\Zaldy\Sanctions\F9VS\F9VS\bin\Debug\F9VS.exe.config
+C:\Users\PB5N0137.DTCT01\Documents\Zaldy\Sanctions\F9VS\F9VS\bin\Debug\F9VS.exe
+C:\Users\PB5N0137.DTCT01\Documents\Zaldy\Sanctions\F9VS\F9VS\bin\Debug\F9VS.pdb
+C:\Users\PB5N0137.DTCT01\Documents\Zaldy\Sanctions\F9VS\F9VS\obj\Debug\F9VS.csprojResolveAssemblyReference.cache
+C:\Users\PB5N0137.DTCT01\Documents\Zaldy\Sanctions\F9VS\F9VS\obj\Debug\F9VS.frmGrand.resources
+C:\Users\PB5N0137.DTCT01\Documents\Zaldy\Sanctions\F9VS\F9VS\obj\Debug\F9VS.Properties.Resources.resources
+C:\Users\PB5N0137.DTCT01\Documents\Zaldy\Sanctions\F9VS\F9VS\obj\Debug\F9VS.csproj.GenerateResource.Cache
+C:\Users\PB5N0137.DTCT01\Documents\Zaldy\Sanctions\F9VS\F9VS\obj\Debug\F9VS.exe
+C:\Users\PB5N0137.DTCT01\Documents\Zaldy\Sanctions\F9VS\F9VS\obj\Debug\F9VS.pdb
+C:\Users\PB5N0137.DTCT01\Documents\Zaldy\Sanctions\F9VS\F9VS\bin\Debug\ConsoleLogger.dll
+C:\Users\PB5N0137.DTCT01\Documents\Zaldy\Sanctions\F9VS\F9VS\bin\Debug\ConsoleLogger.pdb
+D:\Projects\Sanctions\F9VS\F9VS\bin\Debug\F9VS.exe.config
+D:\Projects\Sanctions\F9VS\F9VS\obj\Debug\F9VS.exe
+D:\Projects\Sanctions\F9VS\F9VS\obj\Debug\F9VS.pdb
+D:\Projects\Sanctions\F9VS\F9VS\bin\Debug\F9VS.exe
+D:\Projects\Sanctions\F9VS\F9VS\bin\Debug\F9VS.pdb
+D:\Projects\Sanctions\F9VS\F9VS\bin\Debug\ConsoleLogger.pdb
+D:\Projects\Sanctions\F9VS\F9VS\obj\Debug\F9VS.csprojResolveAssemblyReference.cache
+D:\Projects\Sanctions\F9VS\F9VS\obj\Debug\F9VS.frmGrand.resources
+D:\Projects\Sanctions\F9VS\F9VS\obj\Debug\F9VS.Properties.Resources.resources
+D:\Projects\Sanctions\F9VS\F9VS\obj\Debug\F9VS.csproj.GenerateResource.Cache
